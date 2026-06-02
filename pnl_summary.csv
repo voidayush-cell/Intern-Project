@@ -1,0 +1,6 @@
+classification,count,mean,median,sum
+Extreme Fear,21400,34.54,0.0,739110.25
+Extreme Greed,39992,67.89,0.0,2715171.31
+Fear,61837,54.29,0.0,3357155.44
+Greed,50303,42.74,0.0,2150129.27
+Neutral,37686,34.31,0.0,1292920.68
